@@ -1,0 +1,8 @@
+# Public repo: only the website, the data, and the README.
+/*
+!/.gitignore
+!/README.md
+!/site/
+!/data/
+.claude/
+.DS_Store
