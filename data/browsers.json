@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-05",
+  "asOf": "2026-11-14",
   "arcSunset": {
     "date": "2026-12-22",
     "source": "https://arc.net/"
@@ -17,8 +17,8 @@
         "macOS",
         "Windows"
       ],
-      "version": "1.171.0 (macOS)",
-      "lastUpdated": "2026-10-28",
+      "version": "1.173.1 (macOS)",
+      "lastUpdated": "2026-11-12",
       "price": "Free",
       "priceNote": null,
       "openSource": false,
@@ -84,15 +84,15 @@
         "macOS",
         "Windows"
       ],
-      "version": "1.55.0",
-      "lastUpdated": "2026-10-29",
+      "version": "1.57.0",
+      "lastUpdated": "2026-11-12",
       "price": "Freemium",
       "priceNote": "$20/mo Dia Pro for unlimited AI chat and skills",
       "openSource": false,
       "features": {
         "verticalTabs": "yes",
         "pinnedTabs": "yes",
-        "tabFolders": "partial",
+        "tabFolders": "yes",
         "spaces": "yes",
         "splitView": "yes",
         "commandBar": "yes",
@@ -104,7 +104,7 @@
         "liveFolders": "yes",
         "easels": "unknown",
         "miniPlayer": "yes",
-        "airTrafficControl": "no",
+        "airTrafficControl": "yes",
         "favorites": "partial",
         "builtInAI": "yes",
         "adBlocking": "yes",
@@ -112,10 +112,11 @@
         "sync": "yes"
       },
       "featureNotes": {
-        "tabFolders": "Tab groups can be renamed, recoloured and collapsed in the sidebar, but no nesting is documented.",
+        "tabFolders": "Tab groups in the sidebar can hold other groups, up to eight levels deep, on Mac (1.57.0) and Windows (1.6.0).",
         "autoArchiveTabs": "Tidy Tabs is off by default; when on, it moves inactive tabs to Recently Closed once a day.",
         "miniPlayer": "Picture-in-picture activates when switching away from Meet or YouTube; not documented for every site.",
-        "favorites": "Arc Favorites become icon-only pinned tabs in Dia, and each Profile has its own tabs; nothing says Favorites appear in every Profile."
+        "favorites": "Arc Favorites become icon-only pinned tabs in Dia, and each Profile has its own tabs; nothing says Favorites appear in every Profile.",
+        "airTrafficControl": "Link Rules, set in the Profiles pane of Settings, open links from other apps in a chosen Profile."
       },
       "vibeCoded": "unknown",
       "vibeCodedNote": "Dia is closed source and was built in 2024–2025, and The Browser Company has made no statement on whether it was written mostly with AI coding tools.",
@@ -133,7 +134,10 @@
         "https://www.diabrowser.com/changelog/mac/1-55-0",
         "https://www.diabrowser.com/changelog/mac/1-4-0",
         "https://resources.arc.net/hc/en-us/articles/44413577819159",
-        "https://resources.arc.net/hc/en-us/articles/44413129117591"
+        "https://resources.arc.net/hc/en-us/articles/44413129117591",
+        "https://www.diabrowser.com/changelog/mac/1-57-0",
+        "https://www.diabrowser.com/changelog/mac/1-56-0",
+        "https://www.diabrowser.com/changelog/windows/1-6-0"
       ]
     },
     {
@@ -149,8 +153,8 @@
         "Windows",
         "Linux"
       ],
-      "version": "1.24b",
-      "lastUpdated": "2026-10-29",
+      "version": "1.24.2b",
+      "lastUpdated": "2026-11-12",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
@@ -197,7 +201,8 @@
         "https://github.com/zen-browser/desktop/blob/dev/docs/live-folders-specs.md",
         "https://github.com/zen-browser/desktop/blob/dev/src/zen/urlbar/ZenUBGlobalActions.sys.mjs",
         "https://docs.zen-browser.app/user-manual/pip",
-        "https://github.com/zen-browser/desktop/blob/dev/prefs/firefox/pip.yaml"
+        "https://github.com/zen-browser/desktop/blob/dev/prefs/firefox/pip.yaml",
+        "https://github.com/zen-browser/desktop/releases/tag/1.24.2b"
       ]
     },
     {
@@ -295,8 +300,8 @@
         "iOS",
         "Android"
       ],
-      "version": "8.3.4191.26",
-      "lastUpdated": "2026-11-05",
+      "version": "8.3.4191.44",
+      "lastUpdated": "2026-11-12",
       "price": "Free",
       "priceNote": null,
       "openSource": false,
@@ -356,7 +361,8 @@
         "https://help.vivaldi.com/desktop/tools/capture-a-screenshot/",
         "https://help.vivaldi.com/desktop/media/pop-out-video/",
         "https://help.vivaldi.com/desktop/bookmarks-speed-dial/speed-dials/",
-        "https://help.vivaldi.com/desktop/tabs/tab-stacks/"
+        "https://help.vivaldi.com/desktop/tabs/tab-stacks/",
+        "https://vivaldi.com/blog/desktop/minor-update-three-8-3/"
       ]
     },
     {
@@ -374,8 +380,8 @@
         "iOS",
         "Android"
       ],
-      "version": "139.0.6053.38",
-      "lastUpdated": "2026-11-04",
+      "version": "140.0.6074.18",
+      "lastUpdated": "2026-11-11",
       "price": "Free",
       "priceNote": "VPN Pro is a paid add-on",
       "openSource": false,
@@ -427,7 +433,9 @@
         "https://www.opera.com/features/personal-news",
         "https://www.opera.com/features/pinboards",
         "https://www.opera.com/features/snapshot",
-        "https://help.opera.com/en/latest/start-page/"
+        "https://help.opera.com/en/latest/start-page/",
+        "https://blogs.opera.com/desktop/2026/11/opera-140-stable/",
+        "https://blogs.opera.com/desktop/changelog-for-140/"
       ]
     },
     {
@@ -445,8 +453,8 @@
         "iOS",
         "Android"
       ],
-      "version": "156.0.4314.58",
-      "lastUpdated": "2026-10-30",
+      "version": "157.0.4341.60",
+      "lastUpdated": "2026-11-13",
       "price": "Free",
       "priceNote": "Browse with Copilot (agentic browsing) requires Microsoft 365 Premium, U.S. only",
       "openSource": false,
@@ -517,8 +525,8 @@
         "iOS",
         "Android"
       ],
-      "version": "157.0.8103.38",
-      "lastUpdated": "2026-11-03",
+      "version": "157.0.8103.78",
+      "lastUpdated": "2026-11-11",
       "price": "Free",
       "priceNote": null,
       "openSource": false,
@@ -570,7 +578,8 @@
         "https://support.google.com/chrome/answer/9692215?hl=en&co=GENIE.Platform%3DDesktop",
         "https://developer.chrome.com/blog/automatic-picture-in-picture-media-playback",
         "https://support.google.com/chrome/answer/188842?hl=en&co=GENIE.Platform%3DDesktop",
-        "https://support.google.com/chrome/answer/2364824?hl=en&co=GENIE.Platform%3DDesktop"
+        "https://support.google.com/chrome/answer/2364824?hl=en&co=GENIE.Platform%3DDesktop",
+        "https://chromereleases.googleblog.com/feeds/posts/default"
       ]
     },
     {
@@ -661,8 +670,8 @@
         "iOS",
         "Android"
       ],
-      "version": "159.0.1",
-      "lastUpdated": "2026-11-03",
+      "version": "160.0",
+      "lastUpdated": "2026-11-10",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
@@ -675,7 +684,7 @@
         "commandBar": "partial",
         "autoArchiveTabs": "no",
         "linkPreview": "partial",
-        "miniWindow": "no",
+        "miniWindow": "partial",
         "siteCustomization": "no",
         "arcImport": "partial",
         "liveFolders": "no",
@@ -698,7 +707,8 @@
         "easels": "Built-in Screenshots, plus Tab notes as an opt-in Labs feature, but no canvas.",
         "miniPlayer": "Firefox has a manual Picture-in-Picture toggle on videos, while auto-opening it on tab switch is off by default and only available as an experimental option (media.videocontrols.picture-in-picture.enable-when-switching-tabs.enabled).",
         "favorites": "Firefox offers a bookmarks toolbar (shown on new tabs by default) and pinned tabs, but no set of tabs shown across separate spaces.",
-        "adBlocking": "Enhanced Tracking Protection blocks trackers but not ads."
+        "adBlocking": "Enhanced Tracking Protection blocks trackers but not ads.",
+        "miniWindow": "Mini Window (an early version, Firefox 160) floats a tab or part of a page on top; nothing says links from other apps open in it."
       },
       "vibeCoded": "no",
       "vibeCodedNote": null,
@@ -721,7 +731,8 @@
         "https://github.com/mozilla-firefox/firefox/blob/release/browser/app/profile/firefox.js",
         "https://github.com/mozilla-firefox/firefox/blob/release/toolkit/components/nimbus/FeatureManifest.yaml",
         "https://www.firefox.com/en-US/firefox/137.0/releasenotes/",
-        "https://www.firefox.com/en-US/features/tab-groups/"
+        "https://www.firefox.com/en-US/features/tab-groups/",
+        "https://www.firefox.com/en-US/firefox/160.0/releasenotes/"
       ]
     },
     {
@@ -739,8 +750,8 @@
         "iOS",
         "Android"
       ],
-      "version": "1.98.63",
-      "lastUpdated": "2026-10-30",
+      "version": "1.99.57",
+      "lastUpdated": "2026-11-12",
       "price": "Freemium",
       "priceNote": "Leo AI Premium $14.99/mo or $149.99/yr; basic Leo is free",
       "openSource": true,
@@ -796,7 +807,8 @@
         "https://brave.com/brave-news/",
         "https://github.com/brave/brave-browser/releases/tag/v1.94.117",
         "https://github.com/brave/brave-browser/releases/tag/v1.96.59",
-        "https://github.com/brave/brave-browser/blob/master/CHANGELOG_DESKTOP.md"
+        "https://github.com/brave/brave-browser/blob/master/CHANGELOG_DESKTOP.md",
+        "https://github.com/brave/brave-browser/releases/tag/v1.99.57"
       ]
     },
     {
@@ -812,8 +824,8 @@
         "Windows",
         "Linux"
       ],
-      "version": "12.21.1",
-      "lastUpdated": "2026-11-04",
+      "version": "12.21.2",
+      "lastUpdated": "2026-11-13",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
@@ -867,7 +879,9 @@
         "https://github.com/Floorp-Projects/Floorp/blob/v12.21.1/.github/patches/floorp-runtime/common/workspace-external-containers.patch",
         "https://github.com/Floorp-Projects/Floorp/blob/v12.21.1/browser-features/chrome/common/workspaces/test/external-container-regression.md",
         "https://docs.floorp.app/docs/features/workspaces",
-        "https://docs.floorp.app/docs/features/panel-sidebar"
+        "https://docs.floorp.app/docs/features/panel-sidebar",
+        "https://github.com/Floorp-Projects/Floorp/releases/tag/v12.21.2",
+        "https://blog.floorp.app/en/release/12.21.2/"
       ]
     },
     {
@@ -953,8 +967,8 @@
         "Windows",
         "Linux"
       ],
-      "version": "0.21.1.1",
-      "lastUpdated": "2026-11-04",
+      "version": "0.21.3.1",
+      "lastUpdated": "2026-11-12",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
@@ -1003,7 +1017,10 @@
         "https://github.com/imputnet/helium/blob/main/patches/helium/core/enable-screenshots.patch",
         "https://github.com/imputnet/helium/blob/main/patches/helium/ui/hide-pip-live-caption-button.patch",
         "https://github.com/imputnet/helium/blob/main/patches/helium/core/disable-bookmarks-bar.patch",
-        "https://github.com/imputnet/helium/blob/main/patches/helium/ui/disable-tab-group-editor-footer.patch"
+        "https://github.com/imputnet/helium/blob/main/patches/helium/ui/disable-tab-group-editor-footer.patch",
+        "https://github.com/imputnet/helium-macos/releases/tag/0.21.3.1",
+        "https://github.com/imputnet/helium-windows/releases/tag/0.21.3.1",
+        "https://github.com/imputnet/helium-linux/releases/tag/0.21.3.1"
       ]
     },
     {
@@ -1018,8 +1035,8 @@
         "macOS",
         "iOS"
       ],
-      "version": "0.8.50",
-      "lastUpdated": "2026-10-23",
+      "version": "0.9.1",
+      "lastUpdated": "2026-11-11",
       "price": "Free",
       "priceNote": "Optional donations via Ko-fi or Patreon; Mac build is Apple silicon only",
       "openSource": true,
@@ -1041,14 +1058,13 @@
         "airTrafficControl": "yes",
         "favorites": "yes",
         "builtInAI": "no",
-        "adBlocking": "partial",
+        "adBlocking": "yes",
         "chromeExtensions": "yes",
         "sync": "yes"
       },
       "featureNotes": {
         "tabFolders": "Folders work in both saved and current tabs and can be nested, coloured and collapsed.",
-        "airTrafficControl": "Routes links to a Space by URL pattern, not by source app.",
-        "adBlocking": "The built-in ad and tracker ruleset works only on WebKit pages, so Chromium pages on Mac, the default there, need a blocking extension."
+        "airTrafficControl": "Routes links to a Space by URL pattern, not by source app."
       },
       "vibeCoded": "seems",
       "vibeCodedNote": "The maker's README says AI tools assist development, and every recent pull request by the maintainer is marked 'AI tools helped produce this change'.",
@@ -1072,7 +1088,9 @@
         "https://crestbrowser.com/guides/localhost-developer-tools/",
         "https://crestbrowser.com/guides/link-routing/",
         "https://crestbrowser.com/guides/settings-reference/",
-        "https://crestbrowser.com/guides/sub-spaces/"
+        "https://crestbrowser.com/guides/sub-spaces/",
+        "https://github.com/pauljoda/Crest/releases/tag/v0.9.1",
+        "https://github.com/pauljoda/Crest/releases/tag/v0.9.0"
       ]
     },
     {
@@ -1151,8 +1169,8 @@
       "platforms": [
         "macOS"
       ],
-      "version": "2.16.0",
-      "lastUpdated": "2026-11-05",
+      "version": "2.17.0",
+      "lastUpdated": "2026-11-12",
       "price": "Free",
       "priceNote": "AI usage included for now; the FAQ says advanced features may become paid later",
       "openSource": false,
@@ -1214,7 +1232,9 @@
         "https://phibrowser.com/help/spaces/",
         "https://phibrowser.com/release-note/2.3.0",
         "https://phibrowser.com/release-note/2.13.0",
-        "https://github.com/phibrowser/phibrowser-mac/blob/main/Sources/UserInterface/Preferences/Advanced/AdvancedSettingsView.swift"
+        "https://github.com/phibrowser/phibrowser-mac/blob/main/Sources/UserInterface/Preferences/Advanced/AdvancedSettingsView.swift",
+        "https://phibrowser.com/release-note/2.17.0",
+        "https://phibrowser.com/release-note/2.16.1"
       ]
     },
     {
@@ -1224,12 +1244,12 @@
       "url": "https://yetanotherbrowser.com/",
       "tagline": "WebKit Mac browser modeled on Arc, with AI on your own plan",
       "engine": "WebKit",
-      "engineNote": null,
+      "engineNote": "WebKit by default; Chromium is an optional engine from version 0.46.",
       "platforms": [
         "macOS"
       ],
-      "version": "0.45.2",
-      "lastUpdated": "2026-10-31",
+      "version": "0.47.10",
+      "lastUpdated": "2026-11-11",
       "price": "Free",
       "priceNote": "No Yab account; AI features use your own Claude or ChatGPT plan, or Apple Intelligence",
       "openSource": false,
@@ -1289,7 +1309,10 @@
         "https://yetanotherbrowser.com/changelog/0.7",
         "https://yetanotherbrowser.com/changelog/0.15",
         "https://yetanotherbrowser.com/changelog/0.39",
-        "https://yetanotherbrowser.com/manual/folders"
+        "https://yetanotherbrowser.com/manual/folders",
+        "https://yetanotherbrowser.com/changelog/0.47",
+        "https://yetanotherbrowser.com/changelog/nightly/202611102135",
+        "https://yetanotherbrowser.com/changelog/0.46"
       ]
     },
     {
@@ -1367,8 +1390,8 @@
         "macOS",
         "Windows"
       ],
-      "version": "0.1.17",
-      "lastUpdated": "2026-11-04",
+      "version": "0.1.40",
+      "lastUpdated": "2026-11-13",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
@@ -1418,7 +1441,8 @@
         "https://github.com/yenebeb/yarc/blob/main/src/main/importers/arc-sidebar.ts",
         "https://github.com/yenebeb/yarc/releases/tag/v0.1.18",
         "https://github.com/yenebeb/yarc/blob/main/src/main/menus.ts",
-        "https://github.com/yenebeb/yarc/blob/main/src/renderer/src/panels/Settings.tsx"
+        "https://github.com/yenebeb/yarc/blob/main/src/renderer/src/panels/Settings.tsx",
+        "https://github.com/yenebeb/yarc/releases/tag/v0.1.40"
       ]
     },
     {
@@ -1432,8 +1456,8 @@
       "platforms": [
         "macOS"
       ],
-      "version": "0.2.44",
-      "lastUpdated": "2026-11-04",
+      "version": "0.2.46",
+      "lastUpdated": "2026-11-12",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
@@ -1466,7 +1490,7 @@
         "siteCustomization": "There is no Boosts editor; restyling a site needs a userscript, run through the separate ardia command-line tool or an extension such as Tampermonkey.",
         "liveFolders": "GitHub and Docs live folders need your own access token.",
         "airTrafficControl": "Rules are written by hand in a JSON file and stay off until approved in Settings > Advanced > Automation; there is no rule editor.",
-        "favorites": "Top Apps tiles are shared only by profiles that share browsing data, and each profile can opt out.",
+        "favorites": "Top Apps tiles are shared between profiles only when a profile turns sharing on in Settings > Profiles; since 0.2.45 it is off by default.",
         "sync": "Sync is end-to-end encrypted through your own iCloud Drive, so it only reaches other Macs."
       },
       "vibeCoded": "seems",
@@ -1488,7 +1512,11 @@
         "https://github.com/mantrakp04/ardia/blob/v0.2.44/apps/browser/src/components/settings/panes/Tabs.tsx",
         "https://github.com/mantrakp04/ardia/commits/main",
         "https://github.com/mantrakp04/ardia/blob/v0.2.44/docs/dia-feature-parity.md",
-        "https://github.com/mantrakp04/ardia/blob/v0.2.44/CONTRIBUTING.md"
+        "https://github.com/mantrakp04/ardia/blob/v0.2.44/CONTRIBUTING.md",
+        "https://ardia.dev/release-notes/0.2.46/",
+        "https://github.com/ardia-browser/ardia/releases/tag/v0.2.46",
+        "https://github.com/ardia-browser/ardia/releases/tag/v0.2.45",
+        "https://github.com/ardia-browser/ardia"
       ]
     },
     {
@@ -1574,8 +1602,8 @@
         "Windows",
         "Linux"
       ],
-      "version": "1.46.0",
-      "lastUpdated": "2026-11-02",
+      "version": "1.49.0",
+      "lastUpdated": "2026-11-13",
       "price": "Free",
       "priceNote": "Every feature is free; optional Blanc Patron (US$30/year or US$4/month) unlocks nothing.",
       "openSource": true,
@@ -1636,7 +1664,8 @@
         "https://github.com/bnfy/blanc/releases/tag/v1.46.0",
         "https://github.com/bnfy/blanc/commits/main",
         "https://raw.githubusercontent.com/bnfy/blanc/HEAD/CLAUDE.md",
-        "https://raw.githubusercontent.com/bnfy/blanc/HEAD/LICENSE"
+        "https://raw.githubusercontent.com/bnfy/blanc/HEAD/LICENSE",
+        "https://github.com/bnfy/blanc/releases/tag/v1.49.0"
       ]
     },
     {
@@ -1650,8 +1679,8 @@
       "platforms": [
         "macOS"
       ],
-      "version": "0.1.31 (Apple silicon)",
-      "lastUpdated": "2026-11-05",
+      "version": "0.1.43",
+      "lastUpdated": "2026-11-13",
       "price": "Free",
       "priceNote": "Supported by GitHub Sponsors; sponsoring unlocks nothing.",
       "openSource": true,
@@ -1665,26 +1694,24 @@
         "autoArchiveTabs": "yes",
         "linkPreview": "yes",
         "miniWindow": "yes",
-        "siteCustomization": "no",
+        "siteCustomization": "yes",
         "arcImport": "yes",
         "liveFolders": "yes",
-        "easels": "no",
+        "easels": "yes",
         "miniPlayer": "yes",
         "airTrafficControl": "yes",
         "favorites": "yes",
         "builtInAI": "yes",
         "adBlocking": "yes",
         "chromeExtensions": "yes",
-        "sync": "no"
+        "sync": "yes"
       },
       "featureNotes": {
-        "siteCustomization": "Arc-style Boosts are on the roadmap but not shipped.",
-        "liveFolders": "Live folders cover GitHub pull requests and reviews only.",
-        "easels": "Easels and Notes are on the roadmap but not shipped.",
+        "liveFolders": "Live folders cover GitHub, GitLab and Jira, with more installable as plugins from a ZIP.",
         "airTrafficControl": "Set in Settings ▸ Tabs ▸ Links; Arc routes come along on import.",
-        "builtInAI": "Only Tidy Tabs, Tidy Tab Titles and Tidy Downloads, running on-device through Apple Intelligence; there is no AI assistant.",
+        "builtInAI": "Tidy Tabs, Ask on Page, 5-Second Previews and Instant Links run on-device through Apple Intelligence; the roadmap lists a built-in AI assistant as not planned.",
         "adBlocking": "A built-in list of more than 22,000 ad and tracker domains, on by default.",
-        "sync": "Sync between Macs is on the roadmap under 'Later'."
+        "sync": "Off until you turn it on in Settings > General > Sync; covers Spaces, pins, favorites, folders and settings, not open tabs or history."
       },
       "vibeCoded": "seems",
       "vibeCodedNote": "All 100 most recent commits (checked 2026-11-05) carry a 'Co-Authored-By: Claude' trailer, and a CLAUDE.md sits at the repo root.",
@@ -1700,7 +1727,11 @@
         "https://github.com/VictorKildahl/cra",
         "https://github.com/VictorKildahl/cra/releases/tag/v0.1.31",
         "https://github.com/VictorKildahl/cra/commits/main",
-        "https://raw.githubusercontent.com/VictorKildahl/cra/HEAD/CLAUDE.md"
+        "https://raw.githubusercontent.com/VictorKildahl/cra/HEAD/CLAUDE.md",
+        "https://github.com/VictorKildahl/cra/releases/tag/v0.1.43",
+        "https://github.com/VictorKildahl/cra/releases/tag/v0.1.35",
+        "https://github.com/VictorKildahl/cra/releases/tag/v0.1.38",
+        "https://crabrowser.app/release-notes/0-1-43-instant-links-and-arcs-drag-and-drop"
       ]
     },
     {
@@ -1714,8 +1745,8 @@
       "platforms": [
         "macOS"
       ],
-      "version": "0.1.2",
-      "lastUpdated": "2026-11-02",
+      "version": "0.1.3",
+      "lastUpdated": "2026-11-09",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
@@ -1773,7 +1804,8 @@
         "https://github.com/lucianodiisouza/flecha-browser/blob/v0.1.2/chromium/shared/store.ts",
         "https://github.com/lucianodiisouza/flecha-browser/blob/v0.1.2/chromium/native-host/arcImport.ts",
         "https://github.com/lucianodiisouza/flecha-browser/blob/v0.1.2/chromium/shell/settings.html",
-        "https://github.com/lucianodiisouza/flecha-browser/commits/main"
+        "https://github.com/lucianodiisouza/flecha-browser/commits/main",
+        "https://github.com/lucianodiisouza/flecha-browser/releases/tag/v0.1.3"
       ]
     },
     {
@@ -1789,8 +1821,8 @@
         "macOS",
         "Windows"
       ],
-      "version": "1.5.0",
-      "lastUpdated": "2026-11-02",
+      "version": "1.6.2",
+      "lastUpdated": "2026-11-12",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
@@ -1856,7 +1888,9 @@
         "https://github.com/Rakosn1cek/Mise-browser/blob/v1.5.0/main.js",
         "https://github.com/Rakosn1cek/Mise-browser/blob/v1.5.0/modules/webview.js",
         "https://github.com/Rakosn1cek/Mise-browser/blob/v1.5.0/modules/overlays/commandPalette.js",
-        "https://github.com/Rakosn1cek/Mise-browser/blob/v1.5.0/index.html"
+        "https://github.com/Rakosn1cek/Mise-browser/blob/v1.5.0/index.html",
+        "https://github.com/Rakosn1cek/Mise-browser/releases/tag/v1.6.2",
+        "https://github.com/Rakosn1cek/Mise-browser/releases/tag/v1.6.0"
       ]
     },
     {
@@ -1870,8 +1904,8 @@
       "platforms": [
         "macOS"
       ],
-      "version": "1.4.0",
-      "lastUpdated": "2026-10-28",
+      "version": "1.6.0",
+      "lastUpdated": "2026-11-12",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
@@ -1882,7 +1916,7 @@
         "spaces": "yes",
         "splitView": "yes",
         "commandBar": "partial",
-        "autoArchiveTabs": "no",
+        "autoArchiveTabs": "yes",
         "linkPreview": "yes",
         "miniWindow": "yes",
         "siteCustomization": "yes",
@@ -1899,12 +1933,12 @@
       },
       "featureNotes": {
         "commandBar": "The command palette searches open tabs in every space, history and the web, but it has no app actions or commands.",
-        "autoArchiveTabs": "Idle tabs are unloaded from memory to save resources, but they stay in the sidebar until you close them.",
-        "arcImport": "Arc import brings over spaces, nested folders, pinned tabs, favorites, colors and extensions, with Arc's favorites copied into each space.",
+        "autoArchiveTabs": "Tabs you haven't opened in 12 hours move to the Archive by default; 24 hours, 7 days, 30 days or never can be chosen in Settings > General, and pinned tabs and favorites stay.",
+        "arcImport": "Arc import brings over spaces, nested folders, pinned tabs, favorites, colors, extensions, archived tabs and Air Traffic Control rules, with Arc's favorites copied into each space.",
         "miniPlayer": "Off by default; turning on Settings > General > Keep videos playing in the sidebar moves a playing video into a small player above the sidebar when you leave its tab.",
         "favorites": "Favorites are icon tiles at the top of the sidebar, but each space keeps its own set rather than one shared across spaces.",
         "builtInAI": "Ask Nook, a sidebar chat that answers questions about the page, is opt-in and runs on Apple Intelligence on macOS 26 or on your own Gemini, OpenRouter, Ollama or OpenAI-compatible provider.",
-        "adBlocking": "The built-in ad and tracker blocker is off by default and is turned on in Settings > Ad Blocker.",
+        "adBlocking": "The built-in ad and tracker blocker is on for new installs since 1.5.0; people who installed earlier keep their own setting in Settings > Ad Blocker.",
         "chromeExtensions": "An Add to Nook button installs extensions from the Chrome Web Store, but they run on WebKit's WKWebExtension engine and a Nook developer has said on GitHub that not all of them work yet.",
         "sync": "iCloud sync for spaces and tabs is on the roadmap but has not been started."
       },
@@ -1944,7 +1978,12 @@
         "https://github.com/nook-browser/Nook/issues/280",
         "https://github.com/nook-browser/Nook/commits/develop",
         "https://github.com/nook-browser/Nook/commit/2a54152c205187be864a45bc354763b1d9f6df24",
-        "https://github.com/nook-browser/Nook/blob/develop/.gitignore"
+        "https://github.com/nook-browser/Nook/blob/develop/.gitignore",
+        "https://github.com/nook-browser/Nook/releases/tag/v1.6.0",
+        "https://github.com/nook-browser/Nook/releases/tag/v1.5.0",
+        "https://github.com/nook-browser/Nook/blob/v1.6.0/CHANGELOG.md",
+        "https://github.com/nook-browser/Nook/blob/v1.6.0/Packages/NookUI/Sources/NookUI/Settings/General.swift",
+        "https://github.com/nook-browser/Nook/blob/v1.6.0/Packages/NookSettings/Sources/NookSettings/NookSettingsService.swift"
       ]
     },
     {
@@ -1958,8 +1997,8 @@
       "platforms": [
         "macOS"
       ],
-      "version": "8.0",
-      "lastUpdated": "2026-10-26",
+      "version": "10.0",
+      "lastUpdated": "2026-11-09",
       "price": "Freemium",
       "priceNote": "The free version allows up to 3 spaces; Ortix Pro costs $5.99 a month after a 7-day trial, or comes with a Setapp membership.",
       "openSource": false,
@@ -1971,7 +2010,7 @@
         "splitView": "yes",
         "commandBar": "partial",
         "autoArchiveTabs": "no",
-        "linkPreview": "partial",
+        "linkPreview": "yes",
         "miniWindow": "partial",
         "siteCustomization": "no",
         "arcImport": "partial",
@@ -1991,14 +2030,14 @@
         "spaces": "The free version allows up to 3 spaces, and each space can use its own profile with separate cookies and sign-ins.",
         "commandBar": "Quick Search (Command-T) finds open tabs, history and bookmarks and does sums, but no browser commands are listed.",
         "autoArchiveTabs": "Tabs left alone for hours are unloaded only when the Mac runs low on memory, and they aren't closed.",
-        "linkPreview": "Quick View is a popover browser, but the site only says it catches login and OAuth popups, not that it previews ordinary links.",
         "miniWindow": "Mini Browser is a small window that floats above other apps, and only Setapp's listing says it opens for links clicked in an email.",
         "arcImport": "Ortix imports Arc spaces and tabs, but the site doesn't say whether Arc's pins and folders come across as well.",
         "easels": "The home page holds notes and to-do lists, and a Saved Gallery keeps visual bookmarks.",
         "miniPlayer": "Video follows you into Picture in Picture when you leave its tab, but this automatic mode needs Ortix Pro.",
         "favorites": "Favourites appear as a grid on the home page, not as icons shown in every space.",
         "builtInAI": "The EVVE assistant runs on models on your Mac or on your own API key, and its agent mode needs Ortix Pro.",
-        "sync": "Bookmarks, tabs and spaces sync through iCloud, but Ortix only runs on Macs."
+        "sync": "Bookmarks, tabs and spaces sync through iCloud, but Ortix only runs on Macs.",
+        "chromeExtensions": "Ortix 10 labels extensions a beta: they install from the Chrome Web Store and most work, but not all."
       },
       "vibeCoded": "unknown",
       "vibeCodedNote": "Ortix is closed source, was first released in December 2025, and SystemBionic has made no statement on whether it was written mostly with AI coding tools.",
@@ -2025,15 +2064,15 @@
         "macOS",
         "Windows"
       ],
-      "version": "0.2.6",
-      "lastUpdated": "2026-11-04",
+      "version": "0.2.8",
+      "lastUpdated": "2026-11-10",
       "price": "Freemium",
       "priceNote": "Free tier with 1,000 starter credits plus 50 a day; Individual from $20/mo, Teams $25/seat/mo",
       "openSource": false,
       "features": {
         "verticalTabs": "unknown",
-        "pinnedTabs": "unknown",
-        "tabFolders": "unknown",
+        "pinnedTabs": "partial",
+        "tabFolders": "partial",
         "spaces": "unknown",
         "splitView": "unknown",
         "commandBar": "unknown",
@@ -2055,7 +2094,9 @@
       "featureNotes": {
         "miniPlayer": "Polar's release notes mention picture-in-picture windows, but no automatic floating player on tab switch is documented.",
         "builtInAI": "The browser is built around an AI agent that runs tasks across websites, on your computer or in Polar Cloud, and uses credits.",
-        "chromeExtensions": "Release notes say the Chrome Web Store no longer asks you to switch to Chrome and fix prompts from extensions."
+        "chromeExtensions": "Release notes say the Chrome Web Store no longer asks you to switch to Chrome and fix prompts from extensions.",
+        "pinnedTabs": "Polar's 0.2.8 release notes mention pinned tabs, but don't say whether they behave like Arc's.",
+        "tabFolders": "Polar's 0.2.8 release notes mention tab groups; nested folders aren't mentioned."
       },
       "vibeCoded": "confirmed",
       "vibeCodedNote": "The maker writes that three people with no experience forked Chromium 'with coding agents' and that a team of agents built the Windows version in about a week.",
@@ -2079,10 +2120,11 @@
       "engine": "Chromium",
       "engineNote": "Chromium, with WebKit for some streaming sites.",
       "platforms": [
-        "macOS"
+        "macOS",
+        "iOS"
       ],
-      "version": "0.1.8",
-      "lastUpdated": "2026-10-29",
+      "version": "0.1.11",
+      "lastUpdated": "2026-11-08",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
@@ -2098,7 +2140,7 @@
         "miniWindow": "yes",
         "siteCustomization": "no",
         "arcImport": "yes",
-        "liveFolders": "no",
+        "liveFolders": "yes",
         "easels": "no",
         "miniPlayer": "yes",
         "airTrafficControl": "yes",
@@ -2115,7 +2157,8 @@
         "adBlocking": "uBlock Origin ships built in and on by default; it can be turned off in Settings > General.",
         "easels": "Capture (Shift-Cmd-2) saves page screenshots to the Library's Media, but there is no notes or canvas feature.",
         "builtInAI": "Sailfish's own comparison page lists no AI; Tidy sorts Today tabs into groups on the Mac but is not described as an AI feature.",
-        "sync": "No account or sync; the FAQ says sync may come later."
+        "sync": "No account or sync; the FAQ says sync may come later.",
+        "liveFolders": "Live folders in the sidebar follow an RSS or Atom feed or GitHub pull requests and refresh every 15 minutes; Sailfish's own comparison page still lists them as missing."
       },
       "vibeCoded": "no",
       "vibeCodedNote": null,
@@ -2128,7 +2171,10 @@
         "https://github.com/SailfishBrowser/macOS/releases/tag/v0.1.8",
         "https://github.com/SailfishBrowser/macOS/blob/main/engine/README.md",
         "https://github.com/SailfishBrowser/macOS/blob/main/macOS/Sailfish/Engine/SiteEngines.swift",
-        "https://api.github.com/repos/SailfishBrowser/macOS/commits"
+        "https://api.github.com/repos/SailfishBrowser/macOS/commits",
+        "https://github.com/SailfishBrowser/macOS/releases/tag/v0.1.11",
+        "https://github.com/SailfishBrowser/macOS/blob/v0.1.11/macOS/Sailfish/LiveFolders/LiveSource.swift",
+        "https://apps.apple.com/us/app/sail-browser/id6826509919"
       ]
     },
     {
@@ -2142,8 +2188,8 @@
       "platforms": [
         "macOS"
       ],
-      "version": "1.0.9",
-      "lastUpdated": "2026-11-04",
+      "version": "1.0.12",
+      "lastUpdated": "2026-11-09",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
@@ -2162,7 +2208,7 @@
         "liveFolders": "no",
         "easels": "no",
         "miniPlayer": "yes",
-        "airTrafficControl": "no",
+        "airTrafficControl": "yes",
         "favorites": "yes",
         "builtInAI": "no",
         "adBlocking": "yes",
@@ -2180,9 +2226,10 @@
         "arcImport": "Brings over Arc spaces, pinned tabs, favourites (as pins), folders (as tab groups), bookmarks, history and passwords; Arc notes, easels and boosts don't come over.",
         "miniPlayer": "Floating video on tab switch is a setting (Float the video on its own: Switching tabs).",
         "favorites": "Pins can be kept in every space, above each space's own pins, once turned on in Settings > Tabs.",
-        "builtInAI": "Summarize Page and Ask About This Page exist on the main branch but were held back from the 1.0.9 release.",
+        "builtInAI": "Summarize Page and Ask About This Page exist on the main branch but are still held back as of the 1.0.12 release.",
         "chromeExtensions": "Installs from the Chrome Web Store on macOS 15.4 or later, running on WebKit's extension engine, and not every extension works yet.",
-        "sync": "No account or sync by design; everything stays on the Mac."
+        "sync": "No account or sync by design; everything stays on the Mac.",
+        "airTrafficControl": "Off until turned on in Settings > Spaces & Pins; the sites you list, with their subdomains, open in the space you choose, and a tab's right-click menu can add a rule."
       },
       "vibeCoded": "seems",
       "vibeCodedNote": "All 300 of the latest commits checked (8 Oct to 5 Nov 2026, of 853 total) carry a 'Co-Authored-By: Claude Opus 5.5' trailer, and the README names dev builds after claude/ branches.",
@@ -2195,22 +2242,24 @@
         "https://github.com/driceroland/Search/blob/main/README.md",
         "https://github.com/driceroland/Search/blob/main/CHANGELOG.md",
         "https://github.com/driceroland/Search/releases/tag/v1.0.9",
-        "https://api.github.com/repos/driceroland/Search/commits"
+        "https://api.github.com/repos/driceroland/Search/commits",
+        "https://github.com/driceroland/Search/releases/tag/v1.0.12",
+        "https://github.com/driceroland/Search/releases/tag/v1.0.11"
       ]
     },
     {
       "id": "vane",
       "name": "Vane",
       "maker": "notnaki",
-      "url": "https://notnaki.github.io/vane/",
+      "url": "https://vane.so/",
       "tagline": "Native Swift and WebKit Mac browser closely modeled on Arc",
       "engine": "WebKit",
       "engineNote": null,
       "platforms": [
         "macOS"
       ],
-      "version": "0.0.39",
-      "lastUpdated": "2026-11-01",
+      "version": "0.2.1",
+      "lastUpdated": "2026-11-13",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
@@ -2234,7 +2283,7 @@
         "builtInAI": "yes",
         "adBlocking": "yes",
         "chromeExtensions": "yes",
-        "sync": "no"
+        "sync": "partial"
       },
       "featureNotes": {
         "tabFolders": "Pinned folders nest up to three levels deep, shallower than Arc.",
@@ -2243,11 +2292,12 @@
         "arcImport": "A dedicated Import from Arc flow brings Spaces, pins, splits, passwords, sessions and Air Traffic Control rules, though some row types are skipped.",
         "liveFolders": "Live Folders follow GitHub pull requests only, and need a GitHub sign-in or personal access token.",
         "favorites": "Favourites belong to a profile, so they show in every Space of that profile but not in other profiles' Spaces.",
-        "builtInAI": "Page summaries use Apple's on-device model; cloud features such as tab grouping need your own API key.",
+        "builtInAI": "AI is off by default; page summaries use Apple's on-device model, and cloud features such as tab grouping need a ChatGPT sign-in or your own API key.",
         "adBlocking": "On by default, but supports only part of the EasyList filter syntax.",
         "chromeExtensions": "Installs from the Chrome Web Store, but the WebKit runtime doesn't support every extension API.",
         "miniPlayer": "Automatic Picture in Picture is on by default and can be minimized into a sidebar player.",
-        "airTrafficControl": "Rules in Settings > Links match a link's URL with 'contains' or 'is equal to' and send it to a Space or Little Vane."
+        "airTrafficControl": "Rules in Settings > Links match a link's URL with 'contains' or 'is equal to' and send it to a Space or Little Vane.",
+        "sync": "Opt-in iCloud sync (off by default); the maker says syncing between two Macs is not yet verified."
       },
       "vibeCoded": "seems",
       "vibeCodedNote": "147 of 590 commits carry a Claude co-author trailer (all from the first two months), 424 of 562 PRs come from 'codex/' branches, and a root AGENTS.md tells the agent to implement, review and squash-merge each change (counted 2026-11-05).",
@@ -2269,7 +2319,12 @@
         "https://github.com/notnaki/vane/blob/main/AGENTS.md",
         "https://github.com/notnaki/vane/blob/main/docs/agents/workflow.md",
         "https://github.com/notnaki/vane/commits/main",
-        "https://github.com/notnaki/vane/pulls"
+        "https://github.com/notnaki/vane/pulls",
+        "https://vane.so/",
+        "https://github.com/notnaki/vane/releases/tag/v0.2.1",
+        "https://github.com/notnaki/vane/releases/tag/v0.2.0",
+        "https://github.com/notnaki/vane/blob/v0.2.1/docs/DATA-AND-PRIVACY.md",
+        "https://github.com/notnaki/vane/blob/v0.2.1/docs/INTEGRATIONS.md"
       ]
     },
     {
@@ -2346,28 +2401,28 @@
       "platforms": [
         "macOS"
       ],
-      "version": "0.3.86",
-      "lastUpdated": "2026-11-05",
+      "version": "0.4.4",
+      "lastUpdated": "2026-11-13",
       "price": "Free",
       "priceNote": null,
       "openSource": true,
       "features": {
         "verticalTabs": "yes",
         "pinnedTabs": "partial",
-        "tabFolders": "partial",
-        "spaces": "partial",
-        "splitView": "no",
+        "tabFolders": "yes",
+        "spaces": "yes",
+        "splitView": "yes",
         "commandBar": "yes",
-        "autoArchiveTabs": "no",
-        "linkPreview": "no",
-        "miniWindow": "no",
-        "siteCustomization": "no",
-        "arcImport": "partial",
-        "liveFolders": "no",
-        "easels": "no",
-        "miniPlayer": "partial",
-        "airTrafficControl": "no",
-        "favorites": "unknown",
+        "autoArchiveTabs": "yes",
+        "linkPreview": "yes",
+        "miniWindow": "yes",
+        "siteCustomization": "yes",
+        "arcImport": "yes",
+        "liveFolders": "yes",
+        "easels": "yes",
+        "miniPlayer": "yes",
+        "airTrafficControl": "yes",
+        "favorites": "yes",
         "builtInAI": "yes",
         "adBlocking": "yes",
         "chromeExtensions": "yes",
@@ -2375,12 +2430,19 @@
       },
       "featureNotes": {
         "pinnedTabs": "Pinned tabs show as circular icons at the top of the tab panel; Arc-style persistence isn't documented.",
-        "tabFolders": "One level of tab groups only.",
-        "spaces": "Only separate profiles, each in its own browser instance, plus saved workspaces that reopen in a new window.",
-        "arcImport": "Imports from Chrome, Brave, Edge and Firefox; the site says there is no Arc import yet.",
-        "miniPlayer": "A sidebar media card controls playback, but video doesn't pop out into a floating window.",
+        "spaces": "Sidebar spaces, up to 50, arrived in 0.3.96; saved workspaces also appear as spaces.",
+        "arcImport": "Imports Arc Spaces, pins and folders; nested folders are flattened to their top-level folder.",
+        "miniPlayer": "Off by default; with Settings > Mini player on, a playing video floats in a small window when you leave its tab.",
         "builtInAI": "The AI panel runs Claude, Codex or Gemini coding agents that you set up yourself.",
-        "chromeExtensions": "Installs from the Chrome Web Store since 0.2.6, but not every extension works."
+        "chromeExtensions": "Installs from the Chrome Web Store since 0.2.6, but not every extension works.",
+        "autoArchiveTabs": "Off by default; Settings > Close tabs you have not used closes idle tabs after 12 hours, a day, 7 days or 30 days, and they reopen from History rather than an archive.",
+        "linkPreview": "Shift-click a link, or choose Peek Link from its right-click menu.",
+        "miniWindow": "Off by default; Settings > Open outside links in a mini window sends links from other apps to a small window.",
+        "siteCustomization": "Site styling sets an accent and background colour, a font, hidden elements and custom CSS per site, with no custom JavaScript.",
+        "liveFolders": "Up to 20 live folders in the sidebar follow an RSS or Atom feed or a GitHub repo's releases, commits or tags.",
+        "easels": "Easels hold page clips, notes and pen drawings, up to 100 items each.",
+        "airTrafficControl": "Link routing rules in Settings send links opened from other apps to a chosen space, matched by site and an optional path.",
+        "favorites": "Up to 24 favorites sit in a grid above the pinned tabs, in one list shared by every space."
       },
       "vibeCoded": "no",
       "vibeCodedNote": "66 of 592 commits carry Claude trailers, nearly all from the first weeks; none in the latest 100.",
@@ -2395,7 +2457,17 @@
         "https://github.com/YSamed/yalqen/blob/main/apps/browser/src/main/library/workspaces.ts",
         "https://github.com/YSamed/yalqen/blob/main/docs/decisions/agent-bridge.md",
         "https://github.com/YSamed/yalqen/commits/main",
-        "https://github.com/YSamed/yalqen/blob/main/CITATION.cff"
+        "https://github.com/YSamed/yalqen/blob/main/CITATION.cff",
+        "https://github.com/YSamed/yalqen/releases/tag/v0.4.4",
+        "https://github.com/YSamed/yalqen/releases/tag/v0.3.96",
+        "https://github.com/YSamed/yalqen/releases/tag/v0.3.94",
+        "https://github.com/YSamed/yalqen/releases/tag/v0.3.93",
+        "https://github.com/YSamed/yalqen/releases/tag/v0.3.87",
+        "https://github.com/YSamed/yalqen/blob/v0.4.4/apps/browser/src/shared/locales/en.ts",
+        "https://github.com/YSamed/yalqen/blob/v0.4.4/apps/browser/src/main/app/settings.ts",
+        "https://github.com/YSamed/yalqen/blob/v0.4.4/apps/browser/src/main/library/browser-import.ts",
+        "https://github.com/YSamed/yalqen/blob/v0.4.4/apps/browser/src/main/library/favorites.ts",
+        "https://github.com/YSamed/yalqen/blob/v0.4.4/apps/browser/src/renderer/window/TabPanel.svelte"
       ]
     },
     {
@@ -2410,8 +2482,8 @@
         "macOS",
         "Windows"
       ],
-      "version": "1.0.4",
-      "lastUpdated": "2026-10-28",
+      "version": "1.0.5",
+      "lastUpdated": "2026-11-11",
       "price": "Freemium",
       "priceNote": "The browser is free; Zephium AI includes 250 free credits, and Pro and Max add 2,000 or 10,000 a month. Your own keys or a local model also work.",
       "openSource": true,
@@ -2465,7 +2537,8 @@
         "https://github.com/zephium-browser/Zephium/releases/tag/v1.0.4",
         "https://github.com/zephium-browser/Zephium/blob/main/frame/messages/en.json",
         "https://github.com/zephium-browser/Zephium/blob/main/crates/zephium-core/src/item.rs",
-        "https://github.com/zephium-browser/Zephium/commits/main"
+        "https://github.com/zephium-browser/Zephium/commits/main",
+        "https://github.com/zephium-browser/Zephium/releases/tag/v1.0.5"
       ]
     }
   ]
