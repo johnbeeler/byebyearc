@@ -1809,6 +1809,59 @@
       ]
     },
     {
+      "id": "meridian",
+      "name": "Meridian",
+      "maker": "Dmitry Afonchenko",
+      "url": "https://meridianbrowser.app/",
+      "tagline": "Open-source Chromium browser with the Arc workflow and a workbench for AI coding agents",
+      "engine": "Chromium",
+      "engineNote": null,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "version": "0.6.19",
+      "lastUpdated": "2026-11-21",
+      "price": "Free",
+      "priceNote": null,
+      "openSource": true,
+      "features": {
+        "verticalTabs": "yes",
+        "pinnedTabs": "yes",
+        "tabFolders": "yes",
+        "spaces": "yes",
+        "splitView": "yes",
+        "commandBar": "yes",
+        "autoArchiveTabs": "yes",
+        "linkPreview": "yes",
+        "miniWindow": "yes",
+        "siteCustomization": "yes",
+        "arcImport": "yes",
+        "liveFolders": "no",
+        "easels": "no",
+        "miniPlayer": "yes",
+        "airTrafficControl": "yes",
+        "favorites": "yes",
+        "builtInAI": "yes",
+        "adBlocking": "yes",
+        "chromeExtensions": "yes",
+        "sync": "no"
+      },
+      "featureNotes": {
+        "easels": "Arc's easels aren't supported; on import their tabs come over as a folder.",
+        "builtInAI": "Optional, off until you connect your own AI (Claude, Copilot or a local model).",
+        "arcImport": "On Windows, quit Arc before importing its logins; Arc's extensions don't come over there yet."
+      },
+      "vibeCoded": "confirmed",
+      "vibeCodedNote": "The maker says it was built with a lot of help from Claude, and most commits carry a 'Co-Authored-By: Claude' trailer.",
+      "vibeCodedSource": "https://github.com/Undermove/meridian-browser/commits/main",
+      "sources": [
+        "https://github.com/Undermove/meridian-browser",
+        "https://github.com/Undermove/meridian-browser/releases/tag/v0.6.19",
+        "https://meridianbrowser.app/"
+      ]
+    },
+    {
       "id": "mise",
       "name": "Mise",
       "maker": "Lukas G. (Rakosn1cek)",
